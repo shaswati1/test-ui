@@ -117,7 +117,6 @@ queuelib==1.5.0
 requests-oauthlib==1.3.1
 rsa==4.9
 SALib==1.4.5
-scikit-learn-intelex==2021.20221004.171321
 scs==3.2.3
 shap==0.34.0
 shapely==2.0.1
