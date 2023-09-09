@@ -24,7 +24,6 @@ dash-cytoscape==0.3.0
 dash-html-components==2.0.0
 dash-table==5.0.0
 dask==2021.10.0
-datashape==0.5.4
 dill==0.3.6
 Django==3.2.18
 easyocr==1.6.2
