@@ -126,7 +126,6 @@ Sphinx==4.2.0
 sqlparse==0.4.3
 squarify==0.4.3
 tables==3.6.1
-TBB==0.2
 tensorboard==2.3.0
 tensorboard-plugin-wit==1.8.1
 tensorflow==1.14.0
