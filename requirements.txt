@@ -9,10 +9,6 @@ backcall==0.2.0
 beautifulsoup4==4.12.2
 bleach==6.0.0
 brotlipy==0.7.0
-certifi 
-cffi 
-chardet 
-charset-normalizer 
 cloudpickle==2.2.1
 comm==0.1.4
 contourpy==1.1.0
